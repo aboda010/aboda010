@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Hussein</h1>
-<h3 align="center">A Mobile Application Developer</h3>
+<h3 align="center">Mobile Application Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboda010&label=Profile%20views&color=0e75b6&style=flat" alt="aboda010" /> </p>
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@aboda0120359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aboda0120359" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/عبدالله-حسين-b31089231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/عبدالله-حسين-b31089231" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87-%d8%ad%d8%b3%d9%8a%d9%86-b31089231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87-%d8%ad%d8%b3%d9%8a%d9%86-b31089231/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
