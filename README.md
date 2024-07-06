@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,github,androidstudio,vscode,figma,postman" />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aboda010&show_icons=true&locale=en&layout=compact" alt="aboda010" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aboda010&show_icons=true&locale=en&layout=compact" alt="aboda010" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aboda010&show_icons=true&locale=en" alt="aboda010" /></p><br>
 
