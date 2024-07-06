@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Advanced Flutter.**
 
-- 👨‍💻 All of my projects are available at [**[My Repository](https://github.com/aboda010?tab=repositories)**](**[My Repository](https://github.com/aboda010?tab=repositories)**)
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/aboda010?tab=repositories)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +25,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp," />
     <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
