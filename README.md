@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Advanced Flutter.**
 
-- 👨‍💻 All of my projects are available at [**[My Repository](https://github.com/aboda010?tab=repositories)**](**[My Repository](https://github.com/aboda010?tab=repositories)**)
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/aboda010?tab=repositories)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
