@@ -19,15 +19,12 @@
 <a href="https://linkedin.com/in/عبدالله-حسين-b31089231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="عبدالله-حسين-b31089231/" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100026505664889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100026505664889" height="30" width="40" /></a>
 <a href="https://instagram.com/abdullah_hussein_12_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullah_hussein_12_8" height="30" width="40" /></a>
-  <a href="https://t.me/Abdullah_hussein17">
-    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp," />
-    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,github,androidstudio,vscode,figma,postman" />
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aboda010&show_icons=true&locale=en&layout=compact" alt="aboda010" /></p>
