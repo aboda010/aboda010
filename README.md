@@ -11,12 +11,13 @@
 
 - 🌱 I’m currently learning **Advanced Flutter.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aboda010?tab=repositories](https://github.com/aboda010?tab=repositories)
+- 👨‍💻 All of my projects are available at [**[My Repository](https://github.com/aboda010?tab=repositories)**](**[My Repository](https://github.com/aboda010?tab=repositories)**)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@aboda0120359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aboda0120359" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87-%d8%ad%d8%b3%d9%8a%d9%86-b31089231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87-%d8%ad%d8%b3%d9%8a%d9%86-b31089231/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/بدالله-حسين-b31089231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="بدالله-حسين-b31089231" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100026505664889&locale=ar_ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100026505664889&locale=ar_ar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
